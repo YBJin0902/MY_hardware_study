@@ -1,0 +1,128 @@
+Added Component: Designator=C1(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J1(MX128V)
+Added Component: Designator=J2(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(DIPSW)
+Added Component: Designator=U1(STM32F103)
+Added Component: Designator=U2(RT9187)
+Added Component: Designator=U3(ESP12s)
+Added Pin To Net: NetName=3.3V Pin=J2-5
+Added Pin To Net: NetName=3.3V Pin=P1-8
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=3.3V Pin=U1-1
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=3.3V Pin=U3-3
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=J1-0
+Added Pin To Net: NetName=5V Pin=J2-4
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Net: Name=5V
+Added Pin To Net: NetName=DIP1 Pin=SW1-0
+Added Pin To Net: NetName=DIP1 Pin=U1-32
+Added Net: Name=DIP1
+Added Pin To Net: NetName=DIP2 Pin=SW1-1
+Added Pin To Net: NetName=DIP2 Pin=U1-33
+Added Net: Name=DIP2
+Added Pin To Net: NetName=DIP3 Pin=SW1-2
+Added Pin To Net: NetName=DIP3 Pin=U1-34
+Added Net: Name=DIP3
+Added Pin To Net: NetName=DIP4 Pin=SW1-3
+Added Pin To Net: NetName=DIP4 Pin=U1-35
+Added Net: Name=DIP4
+Added Pin To Net: NetName=E-PAPER_BUSY Pin=P1-1
+Added Pin To Net: NetName=E-PAPER_BUSY Pin=U1-4
+Added Net: Name=E-PAPER_BUSY
+Added Pin To Net: NetName=E-PAPER_CLK Pin=P1-5
+Added Pin To Net: NetName=E-PAPER_CLK Pin=U1-10
+Added Net: Name=E-PAPER_CLK
+Added Pin To Net: NetName=E-PAPER_CS Pin=P1-4
+Added Pin To Net: NetName=E-PAPER_CS Pin=U1-7
+Added Net: Name=E-PAPER_CS
+Added Pin To Net: NetName=E-PAPER_DC Pin=P1-3
+Added Pin To Net: NetName=E-PAPER_DC Pin=U1-6
+Added Net: Name=E-PAPER_DC
+Added Pin To Net: NetName=E-PAPER_DIN Pin=P1-6
+Added Pin To Net: NetName=E-PAPER_DIN Pin=U1-8
+Added Net: Name=E-PAPER_DIN
+Added Pin To Net: NetName=E-PAPER_RST Pin=P1-2
+Added Pin To Net: NetName=E-PAPER_RST Pin=U1-5
+Added Net: Name=E-PAPER_RST
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=SW1-8
+Added Pin To Net: NetName=GND Pin=SW1-9
+Added Pin To Net: NetName=GND Pin=SW1-10
+Added Pin To Net: NetName=GND Pin=SW1-11
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=RFID_MISO Pin=P2-5
+Added Pin To Net: NetName=RFID_MISO Pin=U1-25
+Added Net: Name=RFID_MISO
+Added Pin To Net: NetName=RFID_MOSI Pin=P2-6
+Added Pin To Net: NetName=RFID_MOSI Pin=U1-26
+Added Net: Name=RFID_MOSI
+Added Pin To Net: NetName=RFID_RST Pin=P2-2
+Added Pin To Net: NetName=RFID_RST Pin=U1-27
+Added Net: Name=RFID_RST
+Added Pin To Net: NetName=RFID_SCK Pin=P2-7
+Added Pin To Net: NetName=RFID_SCK Pin=U1-24
+Added Net: Name=RFID_SCK
+Added Pin To Net: NetName=RFID_SDA Pin=P2-8
+Added Pin To Net: NetName=RFID_SDA Pin=U1-23
+Added Net: Name=RFID_SDA
+Added Pin To Net: NetName=state_LED Pin=D1-2
+Added Pin To Net: NetName=state_LED Pin=U1-39
+Added Net: Name=state_LED
+Added Pin To Net: NetName=UART1_Rx Pin=U1-29
+Added Pin To Net: NetName=UART1_Rx Pin=U3-1
+Added Net: Name=UART1_Rx
+Added Pin To Net: NetName=UART1_Tx Pin=U1-28
+Added Pin To Net: NetName=UART1_Tx Pin=U3-0
+Added Net: Name=UART1_Tx
+Added Pin To Net: NetName=UART2_Rx Pin=J2-2
+Added Pin To Net: NetName=UART2_Rx Pin=U1-12
+Added Net: Name=UART2_Rx
+Added Pin To Net: NetName=UART2_Tx Pin=J2-3
+Added Pin To Net: NetName=UART2_Tx Pin=U1-13
+Added Net: Name=UART2_Tx
+Added Class: Name=Cabinet_System_F
+Added Room: Name=Cabinet_System_F

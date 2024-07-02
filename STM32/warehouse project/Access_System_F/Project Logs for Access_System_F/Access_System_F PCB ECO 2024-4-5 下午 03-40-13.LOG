@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=3.3V Pin=R3-1
+Removed Pin From Net: NetName=5V Pin=U2-2
+Removed Pin From Net: NetName=3.3V Pin=U2-3
+Removed Pin From Net: NetName=3.3V Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-6
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Member From Class: ClassName=Access_System_F Member=C1
+Removed Member From Class: ClassName=Access_System_F Member=R1
+Removed Member From Class: ClassName=Access_System_F Member=R2
+Removed Member From Class: ClassName=Access_System_F Member=R3
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Room: Name=Access_System_F
