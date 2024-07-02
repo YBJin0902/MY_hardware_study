@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=USBCOMPORT-TTL.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=USBCOMPORT-TTL.SchDoc|Designator=J1|SchDesignator=J1|FileName=USB-TypeC.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=USB-TypeC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=USBCOMPORT-TTL.SchDoc|Designator=U1|SchDesignator=U1|FileName=CH340K.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=CH340K.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=USBCOMPORT-TTL.SchDoc|Designator=U2|SchDesignator=U2|FileName=LM1117.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=LM1117.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
