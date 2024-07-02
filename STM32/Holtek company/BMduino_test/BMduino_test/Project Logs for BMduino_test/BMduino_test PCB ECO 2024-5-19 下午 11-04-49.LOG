@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GPIO_LED0 Pin=P6-1
+Removed Pin From Net: NetName=GPIO_LED1 Pin=P6-2
+Removed Pin From Net: NetName=GPIO_LED2 Pin=P6-3
+Removed Pin From Net: NetName=GPIO_LED3 Pin=P6-4
+Added Pin To Net: NetName=GPIO_LED3 Pin=P6-1
+Added Pin To Net: NetName=GPIO_LED2 Pin=P6-2
+Added Pin To Net: NetName=GPIO_LED1 Pin=P6-3
+Added Pin To Net: NetName=GPIO_LED0 Pin=P6-4
+Added Room: Name=BMduino_test
